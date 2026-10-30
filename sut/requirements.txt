@@ -1,0 +1,5 @@
+../demo_lib/dist/demo_lib-0.0.1-py3-none-any.whl
+requests>=2.25.0
+pandas>=1.1.0
+pytest>=8.0.0
+pytest-cov>=5.0.0

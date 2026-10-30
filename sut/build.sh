@@ -17,4 +17,4 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 #install shared lib
-pip install "$SHARED_LIB_DIR"/dist/*.whl
+pip install -r requirements.txt
